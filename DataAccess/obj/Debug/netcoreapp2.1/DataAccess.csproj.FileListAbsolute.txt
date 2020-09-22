@@ -1,0 +1,15 @@
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.json
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.dev.json
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\izzel\source\repos\eCommerceWebsite\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.genruntimeconfig.cache

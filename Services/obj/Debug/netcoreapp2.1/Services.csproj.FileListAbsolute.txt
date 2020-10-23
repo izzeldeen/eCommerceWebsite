@@ -12,3 +12,17 @@ C:\Users\izzel\source\repos\eCommerceWebsite\Services\bin\Debug\netcoreapp2.1\Da
 C:\Users\izzel\source\repos\eCommerceWebsite\Services\bin\Debug\netcoreapp2.1\Domain.pdb
 C:\Users\izzel\source\repos\eCommerceWebsite\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
 C:\Users\izzel\source\repos\eCommerceWebsite\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\Projects\eCommerceWebsite\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\Projects\eCommerceWebsite\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\Projects\eCommerceWebsite\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\Projects\eCommerceWebsite\Services\bin\Debug\netcoreapp2.1\DataAccess.dll
+D:\Projects\eCommerceWebsite\Services\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Projects\eCommerceWebsite\Services\bin\Debug\netcoreapp2.1\DataAccess.pdb
+D:\Projects\eCommerceWebsite\Services\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\Projects\eCommerceWebsite\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\Projects\eCommerceWebsite\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\Projects\eCommerceWebsite\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\Projects\eCommerceWebsite\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\Projects\eCommerceWebsite\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+D:\Projects\eCommerceWebsite\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\Projects\eCommerceWebsite\Services\obj\Debug\netcoreapp2.1\Services.pdb

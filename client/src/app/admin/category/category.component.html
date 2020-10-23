@@ -1,0 +1,13 @@
+
+<div class="col-3">
+    <h3>Add Category</h3>
+
+    <form [formGroup]="categoryform" (ngSubmit)="onSubmit()" >
+        
+        <input class="form-control mb-3" type="text" formControlName="name" >
+        <button class="btn btn-primary" type="submit" >
+            Add Category
+        </button>
+    
+    </form >
+</div>

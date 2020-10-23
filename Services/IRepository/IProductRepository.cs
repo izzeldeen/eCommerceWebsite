@@ -7,6 +7,7 @@ namespace Services.IRepository
 {
     public interface IProductRepository : IRepository<Product>
     {
+       
         void Update(Product Product);
     }
 }

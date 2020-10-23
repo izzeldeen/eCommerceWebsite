@@ -1,8 +1,10 @@
 ﻿using DataAccess;
 using Domain;
+using Microsoft.EntityFrameworkCore;
 using Services.IRepository;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Services.Repository
@@ -16,9 +18,8 @@ namespace Services.Repository
             _context = context;
         }
 
-        public void Update(Product Product)
-        {
+        public void Update(Product Product) =>
             _context.Update(Product);
-        }
+        
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\Services\\Services.csproj": {}
+    "D:\\Projects\\eCommerceWebsite\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\DataAccess\\DataAccess.csproj": {
+    "D:\\Projects\\eCommerceWebsite\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Projects\\eCommerceWebsite\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\izzel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\DataAccess\\obj\\",
+        "projectPath": "D:\\Projects\\eCommerceWebsite\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\i.kalbuneh\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\eCommerceWebsite\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\izzel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i.kalbuneh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\Domain\\Domain.csproj"
+              "D:\\Projects\\eCommerceWebsite\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Projects\\eCommerceWebsite\\Domain\\Domain.csproj"
               }
             }
           }
@@ -77,21 +77,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\Domain\\Domain.csproj": {
+    "D:\\Projects\\eCommerceWebsite\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Projects\\eCommerceWebsite\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\izzel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\Domain\\obj\\",
+        "projectPath": "D:\\Projects\\eCommerceWebsite\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\i.kalbuneh\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\eCommerceWebsite\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\izzel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i.kalbuneh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -136,21 +136,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\Services\\Services.csproj": {
+    "D:\\Projects\\eCommerceWebsite\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\Projects\\eCommerceWebsite\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\izzel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\Services\\obj\\",
+        "projectPath": "D:\\Projects\\eCommerceWebsite\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\i.kalbuneh\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\eCommerceWebsite\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\izzel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i.kalbuneh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -163,8 +163,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\izzel\\source\\repos\\eCommerceWebsite\\DataAccess\\DataAccess.csproj"
+              "D:\\Projects\\eCommerceWebsite\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Projects\\eCommerceWebsite\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -178,6 +178,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[6.7.1, )"
@@ -203,7 +211,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
